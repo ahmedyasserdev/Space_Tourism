@@ -11,7 +11,7 @@ const Technology = () => {
 
   return (
     <>
-      <section className=' section technology   px-5 overflow- ' >
+      <section className=' section technology   px-5  ' >
         <div className='overlay pt-48 lg:pt-44  ' >
           <h1 className='heading  text-white tracking-widest font-light   ' > <span className='text-gray-400 font-bold mr-1 ' >03</span>
        
