@@ -177,7 +177,11 @@ p {
 /* Media queries */
 @media (max-width: 767px) {
   .destination {
-    height: calc(100vh + 170px);
+    height: calc(100vh + 230px);
+  }
+  .destination .overlay {
+    height: calc(100vh + 230px);
+
   }
 
   html {
