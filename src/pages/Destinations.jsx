@@ -10,7 +10,7 @@ const Destinations = () => {
 
   return (
     <>
-      <section className=' section  destination px-5 overflow-hidden ' >
+      <section className=' section  destination px-5 overflow-x-hiddenidden ' >
         <div className='overlay pt-20 lg:pt-40  ' >
           <h1 className='heading  text-white tracking-widest font-light ' > <span className='text-gray-400 font-bold ' >01</span>  PICK YOUR DESTINATION</h1>
           <article className='planet' >
