@@ -177,10 +177,10 @@ p {
 /* Media queries */
 @media (max-width: 767px) {
   .destination {
-    height: calc(100vh + 230px);
+    height: calc(100vh + 300px);
   }
   .destination .overlay {
-    height: calc(100vh + 230px);
+    height: calc(100vh + 300px);
 
   }
 
